@@ -10,6 +10,7 @@ export default class Calculator {
 
     this.clear()
   }
+  //test
 
   #primaryOperandDisplay
   #secondaryOperandDisplay
